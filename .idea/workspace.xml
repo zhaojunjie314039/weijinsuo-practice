@@ -1,60 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28a99796-b022-4179-b811-10aca203bd94" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/.idea/weijinsuo-main.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/00.模板页.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/01.测试自己封装的图标.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/02.微金所_顶部通栏.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/03.微金所_导航栏.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/04.微金所_轮播图_桌面版本.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/05.微金所_轮播图_移动端.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/06.微金所_轮播图_自适应.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/07.微金所_信息列表.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/08.微金所_预约界面.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/09.微金所_推荐_布局.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/10.微金所_推荐_优惠券单个布局.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/11.微金所_推荐_布局优惠券合体.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/12.微金所_新闻页.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/13.微金所_footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/_微金所合体.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/css/base.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/css/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/css/index.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/fonts/MiFie-Web-Font.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/fonts/MiFie-Web-Font.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/fonts/MiFie-Web-Font.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/fonts/MiFie-Web-Font.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/code.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_01_2000x410.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_01_640x340.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_02_2000x410.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_02_640x340.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_03_2000x410.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_03_640x340.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_04_2000x410.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/images/slide_04_640x340.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/lib/js/npm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/practice.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/weijinsuo-main/测试文件" afterPath="" />
-    </list>
+    <list default="true" id="28a99796-b022-4179-b811-10aca203bd94" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -174,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561344763492</updated>
-      <workItem from="1561344765161" duration="112000" />
+      <workItem from="1561344765161" duration="541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112000" />
+    <option name="totallyTimeSpent" value="541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
